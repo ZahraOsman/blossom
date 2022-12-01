@@ -22,10 +22,10 @@ source-code: https://github.com/zahraosman/blossom
 # title of site appears in banner
 title: Friends of the Plum Blossom
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: A Digital Library of Loved Ones 
+tagline: a cute little digital library or whatever
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Friends of the Plum Blossom is a digital library of photographs of myself and my loved ones."
+description: "Friends of the Plum Blossom is a digital library of photographs of myself and my loved ones. The collection is named “Friends of the Plum Blossom” as a nod to my Chinese Name “Yeo May”. In Chinese art history, the Three Friends of Winter is an art motif consisting of bamboo, pine, and the plum. These three “friends” are known for their ability to withstand winter and were often depicted in various artistic representations throughout Chinese culture."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: zahraosman
 
