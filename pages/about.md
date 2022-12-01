@@ -9,6 +9,7 @@ credits: true
 ---
 
 
+{% include feature/jumbotron.html objectid=pb007 %}
 
 
 ## About the Collection
